@@ -4,7 +4,7 @@
 # 원리 / How it works
 
 카이사르 암호에서 시작해, 자리마다 다른 해독 key를 주는 나선 암호를 발전시킨 버전입니다. / It's an advanced version of Caesar Cipher by giving decoding key based on location.
-이번에는 소수를 이용해 key 값을 결정하여 더 예측하기 어렵고 강력한 암호를 만들었습니다. / This time, I used primes to decide keys to make a more complex,~HARDER, BETTER, FASTER,~ STRONGER cipher.
+이번에는 소수를 이용해 key 값을 결정하여 더 예측하기 어렵고 강력한 암호를 만들었습니다. / This time, I used primes to decide keys to make a more complex, ~HARDER, BETTER, FASTER,~ STRONGER cipher.
 
 
 # 특징 / Features
